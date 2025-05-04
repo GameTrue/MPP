@@ -101,7 +101,7 @@
 
 ## Авторы
 
-GameTrue
+- GitHub: [GameTrue](https://github.com/GameTrue)
 
 ## Лицензия
 
