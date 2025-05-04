@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/cmake_install.cmake",
+		"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/cmake_install.cmake",
+		"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+          "-g",
+          "-std=c++17",
+          "-I",
+          "C:/Program Files/boost/boost_1_87_0/boost",
+          "-I",
+          "C:/Qt/6.8.2/mingw_64/include",
+          "-L",
+          "C:/Program Files/boost/boost_1_87_0/libs",
+          "-L",
+          "C:/Qt/6.8.2/mingw_64/lib",
+          "main.cpp",
+          "-o",
+          "chatapp",
+          "-lboost_system",
+          "-lboost_thread",
+          "-lQt5Core",
+          "-lQt5Widgets"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  

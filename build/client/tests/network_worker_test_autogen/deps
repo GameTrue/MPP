@@ -1,0 +1,15 @@
+network_worker_test_autogen/timestamp: \
+	C:/msys64/mingw64/lib/cmake/Qt5/Qt5Config.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5/Qt5ConfigVersion.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5/Qt5ModuleLocation.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Test/Qt5TestConfig.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake \
+	C:/msys64/mingw64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
+	D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/resources/client_resources.qrc \
+	D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/tests/CMakeLists.txt \
+	C:/msys64/mingw64/bin/cmake.exe

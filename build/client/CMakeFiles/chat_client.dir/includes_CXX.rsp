@@ -1,0 +1,1 @@
+-ID:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/chat_client_autogen/include -ID:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src -isystem C:/msys64/mingw64/include/QtCore -isystem "C:/msys64/mingw64/share/qt5/mkspecs/win32-g++" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtNetwork

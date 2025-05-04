@@ -1,0 +1,170 @@
+[
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\ChatApp.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\ChatApp.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/ChatApp.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/ChatApp.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\User.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\User.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/User.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/User.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\Message.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\Message.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/Message.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/Message.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\UserManager.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\UserManager.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/UserManager.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/UserManager.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\PasswordHasher.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\PasswordHasher.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/PasswordHasher.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/PasswordHasher.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS @CMakeFiles/chat_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_core.dir\\back\\src\\Chat.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\src\\Chat.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/src/Chat.cpp",
+  "output": "CMakeFiles/chat_core.dir/back/src/Chat.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL @CMakeFiles/chat_server.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_server.dir\\server\\BoostServer.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\server\\BoostServer.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/server/BoostServer.cpp",
+  "output": "CMakeFiles/chat_server.dir/server/BoostServer.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_MAIN -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL @CMakeFiles/chat_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_tests.dir\\back\\tests\\test_chatapp.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\back\\tests\\test_chatapp.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/back/tests/test_chatapp.cpp",
+  "output": "CMakeFiles/chat_tests.dir/back/tests/test_chatapp.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\chat_client_autogen\\mocs_compilation.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\chat_client_autogen\\mocs_compilation.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/chat_client_autogen/mocs_compilation.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/chat_client_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\ClientExample.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\ClientExample.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/ClientExample.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/ClientExample.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\ChatWindow.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\ChatWindow.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/ChatWindow.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/ChatWindow.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\LoginDialog.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\LoginDialog.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/LoginDialog.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/LoginDialog.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\NetworkWorker.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\NetworkWorker.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/NetworkWorker.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/NetworkWorker.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\MessageItem.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\MessageItem.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/MessageItem.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/MessageItem.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\MessageListWidget.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\MessageListWidget.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/MessageListWidget.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/MessageListWidget.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_LOG_DYN_LINK -DBOOST_LOG_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_TEST_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_THREAD_USE_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_client.dir\\chat_client_autogen\\3YJK5W5UP7\\qrc_client_resources.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\chat_client_autogen\\3YJK5W5UP7\\qrc_client_resources.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/chat_client_autogen/3YJK5W5UP7/qrc_client_resources.cpp",
+  "output": "client/CMakeFiles/chat_client.dir/chat_client_autogen/3YJK5W5UP7/qrc_client_resources.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/login_dialog_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\login_dialog_test.dir\\login_dialog_test_autogen\\mocs_compilation.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\tests\\login_dialog_test_autogen\\mocs_compilation.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/login_dialog_test_autogen/mocs_compilation.cpp",
+  "output": "client/tests/CMakeFiles/login_dialog_test.dir/login_dialog_test_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/login_dialog_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\login_dialog_test.dir\\LoginDialogTest.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\tests\\LoginDialogTest.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/tests/LoginDialogTest.cpp",
+  "output": "client/tests/CMakeFiles/login_dialog_test.dir/LoginDialogTest.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/login_dialog_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\login_dialog_test.dir\\__\\LoginDialog.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\LoginDialog.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/LoginDialog.cpp",
+  "output": "client/tests/CMakeFiles/login_dialog_test.dir/__/LoginDialog.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/login_dialog_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\login_dialog_test.dir\\__\\NetworkWorker.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\NetworkWorker.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/NetworkWorker.cpp",
+  "output": "client/tests/CMakeFiles/login_dialog_test.dir/__/NetworkWorker.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/login_dialog_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\login_dialog_test.dir\\login_dialog_test_autogen\\ILZDCADSIA\\qrc_client_resources.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\tests\\login_dialog_test_autogen\\ILZDCADSIA\\qrc_client_resources.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/login_dialog_test_autogen/ILZDCADSIA/qrc_client_resources.cpp",
+  "output": "client/tests/CMakeFiles/login_dialog_test.dir/login_dialog_test_autogen/ILZDCADSIA/qrc_client_resources.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\chat_window_test_autogen\\mocs_compilation.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\tests\\chat_window_test_autogen\\mocs_compilation.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/chat_window_test_autogen/mocs_compilation.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/chat_window_test_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\ChatWindowTest.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\tests\\ChatWindowTest.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/tests/ChatWindowTest.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/ChatWindowTest.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\__\\ChatWindow.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\ChatWindow.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/ChatWindow.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/__/ChatWindow.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\__\\NetworkWorker.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\NetworkWorker.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/NetworkWorker.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/__/NetworkWorker.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\__\\MessageItem.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\MessageItem.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/MessageItem.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/__/MessageItem.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\__\\MessageListWidget.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\client\\MessageListWidget.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/MessageListWidget.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/__/MessageListWidget.cpp.obj"
+},
+{
+  "directory": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_TESTCASE_BUILDDIR=\\\"D:/Users/sasfo/Documents/Itmo/6sem/MPP/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB @CMakeFiles/chat_window_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\chat_window_test.dir\\chat_window_test_autogen\\ILZDCADSIA\\qrc_client_resources.cpp.obj -c D:\\Users\\sasfo\\Documents\\Itmo\\6sem\\MPP\\build\\client\\tests\\chat_window_test_autogen\\ILZDCADSIA\\qrc_client_resources.cpp",
+  "file": "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/chat_window_test_autogen/ILZDCADSIA/qrc_client_resources.cpp",
+  "output": "client/tests/CMakeFiles/chat_window_test.dir/chat_window_test_autogen/ILZDCADSIA/qrc_client_resources.cpp.obj"
+}
+]

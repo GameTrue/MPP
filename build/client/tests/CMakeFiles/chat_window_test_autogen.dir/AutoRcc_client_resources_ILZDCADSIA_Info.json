@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/chat_window_test_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/tests",
+	"CMAKE_SOURCE_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/chat_window_test_autogen/include",
+	"INPUTS" : [ "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/resources/style.qss" ],
+	"LOCK_FILE" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/CMakeFiles/chat_window_test_autogen.dir/AutoRcc_client_resources_ILZDCADSIA_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "client_resources" ],
+	"OUTPUT_CHECKSUM" : "ILZDCADSIA",
+	"OUTPUT_NAME" : "qrc_client_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/msys64/mingw64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build/client/tests/CMakeFiles/chat_window_test_autogen.dir/AutoRcc_client_resources_ILZDCADSIA_Used.txt",
+	"SOURCE" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/client/resources/client_resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

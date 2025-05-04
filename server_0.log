@@ -1,0 +1,321 @@
+[2025-04-21 23:08:16.853002] [Thread 0x0000687c] [info] ------------- Server Starting -------------
+[2025-04-21 23:08:16.858157] [Thread 0x0000687c] [info] Server started on port 12345
+[2025-04-21 23:08:16.858634] [Thread 0x0000687c] [info] Default 'General' chat created
+[2025-04-21 23:08:16.858754] [Thread 0x0000687c] [info] Starting 8 worker threads
+[2025-04-21 23:10:03.912892] [Thread 0x00002594] [info] New client connected: 127.0.0.1:56029
+[2025-04-21 23:10:04.096261] [Thread 0x00002594] [info] Processing command: register
+[2025-04-21 23:10:04.096599] [Thread 0x00002594] [info] Register attempt for user test: User registered successfully
+[2025-04-21 23:10:04.632839] [Thread 0x00000ae8] [info] Processing command: login
+[2025-04-21 23:10:04.635865] [Thread 0x00000ae8] [info] User test subscribed to chat General
+[2025-04-21 23:10:04.635896] [Thread 0x00000ae8] [info] User test automatically joined General chat
+[2025-04-21 23:10:04.635903] [Thread 0x00000ae8] [info] Login attempt for user test: Success
+[2025-04-21 23:10:05.445959] [Thread 0x00002594] [info] New client connected: 127.0.0.1:56033
+[2025-04-21 23:10:09.603153] [Thread 0x00002594] [info] New client connected: 127.0.0.1:56038
+[2025-04-21 23:10:09.890713] [Thread 0x00002594] [info] Processing command: register
+[2025-04-21 23:10:09.891070] [Thread 0x00002594] [info] Register attempt for user tester: User registered successfully
+[2025-04-21 23:10:10.262304] [Thread 0x00000ae8] [info] Processing command: login
+[2025-04-21 23:10:10.263416] [Thread 0x00000ae8] [info] User tester subscribed to chat General
+[2025-04-21 23:10:10.263433] [Thread 0x00000ae8] [info] User tester automatically joined General chat
+[2025-04-21 23:10:10.263439] [Thread 0x00000ae8] [info] Login attempt for user tester: Success
+[2025-04-21 23:10:10.289796] [Thread 0x00002594] [info] New client connected: 127.0.0.1:56040
+[2025-04-21 23:10:10.446040] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:10.446080] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:10.446169] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:10.446193] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:15.286802] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:15.286833] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:15.286996] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:15.287014] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:15.459216] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:15.459245] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:15.459320] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:15.459334] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:16.231992] [Thread 0x00000ae8] [info] Processing command: createChat
+[2025-04-21 23:10:16.232348] [Thread 0x00000ae8] [info] Chat created: test1
+[2025-04-21 23:10:16.239866] [Thread 0x00002594] [info] Processing command: getChats
+[2025-04-21 23:10:16.239913] [Thread 0x00002594] [warning] Unknown command received: getChats
+[2025-04-21 23:10:16.240541] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:16.240565] [Thread 0x00000ae8] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:16.240626] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:16.240636] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:16.726452] [Thread 0x00002594] [info] Processing command: getChats
+[2025-04-21 23:10:16.726480] [Thread 0x00002594] [warning] Unknown command received: getChats
+[2025-04-21 23:10:16.727896] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:16.727916] [Thread 0x00000ae8] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:16.727979] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:16.727989] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:18.213202] [Thread 0x00002594] [info] Processing command: createChat
+[2025-04-21 23:10:18.213591] [Thread 0x00002594] [info] Chat created: test2
+[2025-04-21 23:10:18.220132] [Thread 0x00000ae8] [info] Processing command: getChats
+[2025-04-21 23:10:18.220166] [Thread 0x00000ae8] [warning] Unknown command received: getChats
+[2025-04-21 23:10:18.220823] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:18.220847] [Thread 0x00002594] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:18.220893] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:18.220908] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:18.711994] [Thread 0x00000ae8] [info] Processing command: getChats
+[2025-04-21 23:10:18.712023] [Thread 0x00000ae8] [warning] Unknown command received: getChats
+[2025-04-21 23:10:18.714086] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:18.714111] [Thread 0x00002594] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:18.714237] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:18.714262] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:20.307452] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:20.307481] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:20.307672] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:20.307691] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:20.464166] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:20.464195] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:20.464347] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:20.464365] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:21.543982] [Thread 0x00000ae8] [info] Processing command: createChat
+[2025-04-21 23:10:21.544620] [Thread 0x00000ae8] [info] Chat created: test3
+[2025-04-21 23:10:21.553200] [Thread 0x00002594] [info] Processing command: getChats
+[2025-04-21 23:10:21.553228] [Thread 0x00002594] [warning] Unknown command received: getChats
+[2025-04-21 23:10:21.553804] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:21.553825] [Thread 0x00000ae8] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:21.553875] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:21.553893] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:22.044775] [Thread 0x00002594] [info] Processing command: getChats
+[2025-04-21 23:10:22.044824] [Thread 0x00002594] [warning] Unknown command received: getChats
+[2025-04-21 23:10:22.046557] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:22.046581] [Thread 0x00000ae8] [info] Sent 0 messages from chat General
+[2025-04-21 23:10:22.046708] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:22.046737] [Thread 0x00000ae8] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:23.853357] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:23.853821] [Thread 0x00002594] [info] User test subscribed to chat test1
+[2025-04-21 23:10:23.853839] [Thread 0x00002594] [info] User test joined chat test1
+[2025-04-21 23:10:23.854044] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:23.854063] [Thread 0x00000ae8] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:23.854106] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:23.854121] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test1
+[2025-04-21 23:10:25.299875] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:25.299917] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:25.300016] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:25.300043] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:25.454875] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:25.454904] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:25.455115] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:25.455138] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test1
+[2025-04-21 23:10:25.511721] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:25.512198] [Thread 0x00002594] [info] User test subscribed to chat test2
+[2025-04-21 23:10:25.512217] [Thread 0x00002594] [info] User test joined chat test2
+[2025-04-21 23:10:25.512413] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:25.512431] [Thread 0x00000ae8] [info] Sent 0 messages from chat test2
+[2025-04-21 23:10:25.512473] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:25.512482] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test2
+[2025-04-21 23:10:27.319715] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:27.320187] [Thread 0x00002594] [info] User test subscribed to chat test3
+[2025-04-21 23:10:27.320206] [Thread 0x00002594] [info] User test joined chat test3
+[2025-04-21 23:10:27.320721] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:27.320743] [Thread 0x00000ae8] [info] Sent 0 messages from chat test3
+[2025-04-21 23:10:27.320802] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:27.320819] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test3
+[2025-04-21 23:10:28.068461] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:28.068504] [Thread 0x00002594] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:28.068584] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:28.068602] [Thread 0x00002594] [info] Sent list of 1 users in chat test1
+[2025-04-21 23:10:28.479493] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:28.479528] [Thread 0x00000ae8] [info] Sent 0 messages from chat test2
+[2025-04-21 23:10:28.479612] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:28.479631] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test2
+[2025-04-21 23:10:30.297483] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:30.297512] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:30.297714] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:30.297735] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:10:30.454360] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:30.454392] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:30.454587] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:30.454607] [Thread 0x00000ae8] [info] Sent list of 1 users in chat test2
+[2025-04-21 23:10:31.110353] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:31.110850] [Thread 0x00002594] [info] User tester subscribed to chat test1
+[2025-04-21 23:10:31.110870] [Thread 0x00002594] [info] User tester joined chat test1
+[2025-04-21 23:10:31.111149] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:31.111164] [Thread 0x00000ae8] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:31.111205] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:31.111214] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:34.929187] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:34.929696] [Thread 0x00002594] [info] User tester subscribed to chat test2
+[2025-04-21 23:10:34.929716] [Thread 0x00002594] [info] User tester joined chat test2
+[2025-04-21 23:10:34.929952] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:34.929976] [Thread 0x00000ae8] [info] Sent 0 messages from chat test2
+[2025-04-21 23:10:34.930027] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:34.930078] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:10:35.300118] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:35.300146] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:35.300337] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:35.300356] [Thread 0x00002594] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:10:35.456752] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:35.456940] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:35.457003] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:35.457018] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:10:36.962809] [Thread 0x00002594] [info] Processing command: joinChat
+[2025-04-21 23:10:36.963418] [Thread 0x00002594] [info] User tester subscribed to chat test3
+[2025-04-21 23:10:36.963437] [Thread 0x00002594] [info] User tester joined chat test3
+[2025-04-21 23:10:36.963947] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:36.963969] [Thread 0x00000ae8] [info] Sent 0 messages from chat test3
+[2025-04-21 23:10:36.964018] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:36.964035] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:10:38.228699] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:38.228732] [Thread 0x00002594] [info] Sent 0 messages from chat test3
+[2025-04-21 23:10:38.228804] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:38.228825] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:10:38.684506] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:38.684542] [Thread 0x00000ae8] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:38.684615] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:38.684625] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:40.308887] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:40.308917] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:40.308984] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:40.309007] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:10:40.464560] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:40.464590] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:40.464745] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:40.464764] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:45.298586] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:45.298618] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:45.298795] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:45.298815] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:10:45.455276] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:45.455314] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:45.455417] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:45.455456] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:46.379967] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:46.379999] [Thread 0x00002594] [info] Sent 0 messages from chat test2
+[2025-04-21 23:10:46.380067] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:46.380086] [Thread 0x00002594] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:10:46.755969] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:46.756023] [Thread 0x00000ae8] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:46.756228] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:46.756592] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:48.660545] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:10:48.660582] [Thread 0x00002594] [info] Sent 0 messages from chat test1
+[2025-04-21 23:10:48.660677] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:48.660698] [Thread 0x00002594] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:50.298533] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:50.298569] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:50.298808] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:50.298828] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:50.455629] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:50.455658] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:50.455731] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:50.455744] [Thread 0x00002594] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:52.269096] [Thread 0x00000ae8] [info] Processing command: sendMessageInChat
+[2025-04-21 23:10:52.271319] [Thread 0x00000ae8] [info] Message from tester broadcasted to 1 users in chat test1
+[2025-04-21 23:10:52.271338] [Thread 0x00000ae8] [info] Message sent to chat test1
+[2025-04-21 23:10:55.174526] [Thread 0x00002594] [info] Processing command: sendMessageInChat
+[2025-04-21 23:10:55.176532] [Thread 0x00002594] [info] Message from test broadcasted to 1 users in chat test1
+[2025-04-21 23:10:55.176569] [Thread 0x00002594] [info] Message sent to chat test1
+[2025-04-21 23:10:55.311009] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:10:55.311039] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:10:55.311204] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:55.311224] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:55.467762] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:10:55.467797] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:10:55.467930] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:10:55.467964] [Thread 0x00002594] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:10:56.279781] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:10:56.279814] [Thread 0x00000ae8] [info] Sent 0 messages from chat test3
+[2025-04-21 23:10:56.279877] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:10:56.279897] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:10:57.813695] [Thread 0x00002594] [info] Processing command: sendMessageInChat
+[2025-04-21 23:10:57.815781] [Thread 0x00002594] [info] Message from test broadcasted to 1 users in chat test3
+[2025-04-21 23:10:57.815815] [Thread 0x00002594] [info] Message sent to chat test3
+[2025-04-21 23:11:00.303943] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:00.303976] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:00.304052] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:00.304066] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:00.461110] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:00.461139] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:00.461337] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:00.461358] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:00.586809] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:11:00.586855] [Thread 0x00000ae8] [info] Sent 1 messages from chat test3
+[2025-04-21 23:11:00.586927] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:00.586943] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:05.309387] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:05.309415] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:05.309620] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:05.309639] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:05.466436] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:05.466465] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:05.466606] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:05.466631] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:10.308922] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:10.308953] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:10.309165] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:10.309187] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:10.465851] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:10.465880] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:10.466089] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:10.466109] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:15.309305] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:15.309342] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:15.309417] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:15.309430] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:15.465572] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:15.465601] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:15.465789] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:15.465835] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:20.307730] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:20.307758] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:20.307988] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:20.308008] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:20.464097] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:20.464126] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:20.464312] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:20.464352] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:23.760605] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:11:23.760640] [Thread 0x00002594] [info] Sent 0 messages from chat test2
+[2025-04-21 23:11:23.760719] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:23.760739] [Thread 0x00002594] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:11:24.035717] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:11:24.035755] [Thread 0x00000ae8] [info] Sent 2 messages from chat test1
+[2025-04-21 23:11:24.035822] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:24.035840] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:24.811409] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:11:24.811461] [Thread 0x00002594] [info] Sent 0 messages from chat General
+[2025-04-21 23:11:24.811526] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:24.811549] [Thread 0x00002594] [info] Sent list of 2 users in chat General
+[2025-04-21 23:11:25.298639] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:11:25.298680] [Thread 0x00000ae8] [info] Sent 2 messages from chat test1
+[2025-04-21 23:11:25.298798] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:25.298870] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:25.302806] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:25.302846] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:25.303016] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:25.303055] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:25.459856] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:25.459884] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:25.460124] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:25.460143] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:25.624316] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:11:25.624347] [Thread 0x00002594] [info] Sent 0 messages from chat test2
+[2025-04-21 23:11:25.624429] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:25.624446] [Thread 0x00002594] [info] Sent list of 2 users in chat test2
+[2025-04-21 23:11:26.426491] [Thread 0x00000ae8] [info] Processing command: getChatHistory
+[2025-04-21 23:11:26.426545] [Thread 0x00000ae8] [info] Sent 1 messages from chat test3
+[2025-04-21 23:11:26.426609] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:26.426630] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:27.754102] [Thread 0x00002594] [info] Processing command: getChatHistory
+[2025-04-21 23:11:27.754137] [Thread 0x00002594] [info] Sent 2 messages from chat test1
+[2025-04-21 23:11:27.754203] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:27.754224] [Thread 0x00002594] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:30.308026] [Thread 0x00000ae8] [info] Processing command: getAllUsers
+[2025-04-21 23:11:30.308055] [Thread 0x00000ae8] [info] Sent list of all 0 users
+[2025-04-21 23:11:30.308243] [Thread 0x00000ae8] [info] Processing command: getChatUsers
+[2025-04-21 23:11:30.308279] [Thread 0x00000ae8] [info] Sent list of 2 users in chat test1
+[2025-04-21 23:11:30.464860] [Thread 0x00002594] [info] Processing command: getAllUsers
+[2025-04-21 23:11:30.464889] [Thread 0x00002594] [info] Sent list of all 0 users
+[2025-04-21 23:11:30.465107] [Thread 0x00002594] [info] Processing command: getChatUsers
+[2025-04-21 23:11:30.465130] [Thread 0x00002594] [info] Sent list of 2 users in chat test3
+[2025-04-21 23:11:30.840662] [Thread 0x00000ae8] [info] Client disconnected: 127.0.0.1:56033
+[2025-04-21 23:11:30.844216] [Thread 0x00000ae8] [info] Client disconnected: 127.0.0.1:56029
+[2025-04-21 23:11:30.844268] [Thread 0x00000ae8] [info] User test removed from chat General
+[2025-04-21 23:11:30.844275] [Thread 0x00000ae8] [info] User test removed from chat test1
+[2025-04-21 23:11:30.844280] [Thread 0x00000ae8] [info] User test removed from chat test2
+[2025-04-21 23:11:30.844285] [Thread 0x00000ae8] [info] User test removed from chat test3
+[2025-04-21 23:11:32.035892] [Thread 0x00000ae8] [info] Client disconnected: 127.0.0.1:56040
+[2025-04-21 23:11:32.038326] [Thread 0x00000ae8] [info] Client disconnected: 127.0.0.1:56038
+[2025-04-21 23:11:32.038446] [Thread 0x00000ae8] [info] User tester removed from chat General
+[2025-04-21 23:11:32.038465] [Thread 0x00000ae8] [info] User tester removed from chat test1
+[2025-04-21 23:11:32.038475] [Thread 0x00000ae8] [info] User tester removed from chat test2
+[2025-04-21 23:11:32.038483] [Thread 0x00000ae8] [info] User tester removed from chat test3

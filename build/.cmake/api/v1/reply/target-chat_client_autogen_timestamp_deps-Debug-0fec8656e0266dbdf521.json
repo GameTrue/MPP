@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"client/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "chat_core::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "chat_client_autogen_timestamp_deps::@b0c487aac068df482bf0",
+	"isGeneratorProvided" : true,
+	"name" : "chat_client_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "client",
+		"source" : "client"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

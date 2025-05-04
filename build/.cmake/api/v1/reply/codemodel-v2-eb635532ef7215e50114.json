@@ -1,0 +1,211 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "client",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-client-Debug-3c37cf1077c78f229df7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "client/tests",
+					"jsonFile" : "directory-client.tests-Debug-d062a1a1bb489467d286.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "client/tests",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "ChatApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "chat_client_tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "chat_client::@b0c487aac068df482bf0",
+					"jsonFile" : "target-chat_client-Debug-42656e3c50cf4adbfa2f.json",
+					"name" : "chat_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "chat_client_autogen::@b0c487aac068df482bf0",
+					"jsonFile" : "target-chat_client_autogen-Debug-c09495cce6a46907b831.json",
+					"name" : "chat_client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "chat_client_autogen_timestamp_deps::@b0c487aac068df482bf0",
+					"jsonFile" : "target-chat_client_autogen_timestamp_deps-Debug-0fec8656e0266dbdf521.json",
+					"name" : "chat_client_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_core-Debug-f77eeb643302f12ef42b.json",
+					"name" : "chat_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_server-Debug-29688fb5fbe565303437.json",
+					"name" : "chat_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_tests-Debug-5c0bd5bb372771945c02.json",
+					"name" : "chat_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "chat_window_test::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-chat_window_test-Debug-d764267cdb09b31a4463.json",
+					"name" : "chat_window_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "chat_window_test_autogen::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-chat_window_test_autogen-Debug-d12ab6769c25f62bc578.json",
+					"name" : "chat_window_test_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "chat_window_test_autogen_timestamp_deps::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-chat_window_test_autogen_timestamp_deps-Debug-9ca2d0fba26e82b68e25.json",
+					"name" : "chat_window_test_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "login_dialog_test::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-login_dialog_test-Debug-648f9399e609d5ec76f5.json",
+					"name" : "login_dialog_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "login_dialog_test_autogen::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-login_dialog_test_autogen-Debug-ba0dc369318e6f1a1b33.json",
+					"name" : "login_dialog_test_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "login_dialog_test_autogen_timestamp_deps::@3bc3f482f9de7620de20",
+					"jsonFile" : "target-login_dialog_test_autogen_timestamp_deps-Debug-b42bbc509642aeb31247.json",
+					"name" : "login_dialog_test_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP/build",
+		"source" : "D:/Users/sasfo/Documents/Itmo/6sem/MPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

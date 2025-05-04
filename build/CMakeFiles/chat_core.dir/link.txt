@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libchat_core.a CMakeFiles/chat_core.dir/back/src/ChatApp.cpp.obj CMakeFiles/chat_core.dir/back/src/User.cpp.obj CMakeFiles/chat_core.dir/back/src/Message.cpp.obj CMakeFiles/chat_core.dir/back/src/UserManager.cpp.obj CMakeFiles/chat_core.dir/back/src/PasswordHasher.cpp.obj CMakeFiles/chat_core.dir/back/src/Chat.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libchat_core.a

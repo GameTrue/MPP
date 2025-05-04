@@ -1,0 +1,176 @@
+/* Main application style */
+QWidget {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 10pt;
+}
+
+/* Dialog styling */
+QDialog {
+    background-color: #f7f7f7;
+}
+
+/* Login dialog special styling */
+#LoginDialog {
+    background-color: #f8f9fa;
+}
+
+/* Labels */
+QLabel {
+    color: #333333;
+}
+
+QLabel#titleLabel {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #2c3e50;
+    padding: 10px;
+}
+
+QLabel#statusLabel {
+    color: #666666;
+    font-style: italic;
+    padding: 5px;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #2980b9;
+}
+
+QPushButton:pressed {
+    background-color: #1a5276;
+}
+
+QPushButton:disabled {
+    background-color: #bdc3c7;
+    color: #7f8c8d;
+}
+
+/* Text inputs */
+QLineEdit {
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: white;
+}
+
+QLineEdit:focus {
+    border: 1px solid #3498db;
+}
+
+/* List widgets */
+QListWidget {
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    background-color: white;
+    alternate-background-color: #f9f9f9;
+}
+
+QListWidget::item {
+    padding: 5px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+QListWidget::item:selected {
+    background-color: #3498db;
+    color: white;
+}
+
+QListWidget::item:hover:!selected {
+    background-color: #e0f2fe;
+}
+
+/* Text display */
+QPlainTextEdit, QTextEdit {
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    background-color: white;
+    selection-background-color: #3498db;
+    selection-color: white;
+}
+
+/* Splitter */
+QSplitter::handle {
+    background-color: #bdc3c7;
+    width: 1px;
+}
+
+QSplitter::handle:hover {
+    background-color: #3498db;
+}
+
+/* Status bar */
+QStatusBar {
+    background-color: #ecf0f1;
+    color: #7f8c8d;
+}
+
+/* Menu bar */
+QMenuBar {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+}
+
+QMenuBar::item:selected {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Menu */
+QMenu {
+    background-color: white;
+    border: 1px solid #bdc3c7;
+}
+
+QMenu::item:selected {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Section headers in chat window */
+#chatsLabel, #usersLabel {
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 10px;
+}
+
+/* Chat display */
+#chatDisplay {
+    background-color: #ffffff;
+    border: 1px solid #e1e1e1;
+    padding: 5px;
+    font-size: 10pt;
+    line-height: 1.4;
+}
+
+QScrollArea#chatDisplay {
+    background-color: #f5f5f5;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+}
+
+QWidget#messageContentWidget {
+    background-color: #f5f5f5;
+}
+
+/* Message list widget styling */
+MessageListWidget {
+    background-color: #f5f5f5;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+}
+
+/* Message item styling (via MessageItem parent widget) */
+MessageItem {
+    background-color: transparent;
+    margin-bottom: 5px;
+}

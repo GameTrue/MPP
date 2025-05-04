@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"client/tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "chat_window_test_autogen_timestamp_deps::@3bc3f482f9de7620de20",
+	"isGeneratorProvided" : true,
+	"name" : "chat_window_test_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "client/tests",
+		"source" : "client/tests"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
